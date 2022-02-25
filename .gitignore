@@ -1,0 +1,8 @@
+*~
+*data/
+*jobscripts/
+*.vscode
+*.DS_Store*
+*.code-workspace
+*.history*
+*.Rhistory
